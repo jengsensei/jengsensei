@@ -1,0 +1,134 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jengsensei.com" resolutions="1x" timestamp="1490175851501">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="videos.css" crc="3816513818" ref="videos"/>
+    <file name="j2_11.css" crc="3953974739" ref="j2.11"/>
+    <file name="index.css" crc="255631855" ref="index"/>
+    <file name="powerpoint-slides.css" crc="445859379" ref="powerpoint-slides"/>
+    <file name="upcoming-tests.css" crc="136060271" ref="upcoming-tests"/>
+    <file name="j2_35.css" crc="236440113" ref="j2.35"/>
+    <file name="homework.css" crc="4281897117" ref="homework"/>
+    <file name="j2_13.css" crc="3932952602" ref="j2.13"/>
+    <file name="master_a-master.css" crc="344942237" ref="videos:j2.11:index:powerpoint-slides:upcoming-tests:j2.35:homework:j2.13"/>
+  </folder>
+  <folder name="assets">
+    <file name="term1_wk2_jan-9.pdf" crc="3873591363" seo="true" mt="1483961815000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35"/>
+    <file name="museutils.js" crc="163421577" ref="index:videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35"/>
+    <file name="whatinput.js" crc="86476730" ref="index:videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35"/>
+    <file name="museconfig.js" crc="168988563" ref="index:videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="j2.11:videos:j2.13:j2.35:index:homework:powerpoint-slides:upcoming-tests"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35"/>
+    <file name="html5shiv.js" crc="4241844378" ref="videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35:index"/>
+    <file name="require.js" crc="244322403" ref="index:videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35"/>
+    <file name="webpro.js" crc="3848665353" ref="j2.11"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="j2.11"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 1200x675.jpg" crc="3874429930" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="j2.11:videos:j2.13:j2.35:index:homework:powerpoint-slides:upcoming-tests"/>
+    <file name="pasted image 1600x1067.jpg" crc="12636566" seo="true" ref="homework:j2.11:j2.13:j2.35"/>
+    <file name="u1634-6.png" crc="58268192" ref="j2.11"/>
+    <file name="new year mochi.jpg" crc="280909495" seo="true" ref="j2.11"/>
+    <file name="cactus.jpg" crc="509767820" seo="true" ref="j2.11"/>
+    <file name="trees.jpg" crc="386417028" seo="true" ref="j2.11"/>
+    <file name="pasted image 1920x1200.jpg" crc="323330323" seo="true" ref="videos"/>
+    <file name="u2351-6.png" crc="460972493" ref="videos"/>
+    <file name="u2341.png" crc="393942479" ref="videos"/>
+    <file name="u2341-a.png" crc="393942479" ref="videos"/>
+    <file name="u2347.png" crc="119248113" ref="videos"/>
+    <file name="u2347-a.png" crc="119248113" ref="videos"/>
+    <file name="u2327.png" crc="4037023568" ref="videos"/>
+    <file name="u2327-a.png" crc="4037023568" ref="videos"/>
+    <file name="u2319.png" crc="4241854296" ref="videos"/>
+    <file name="u2319-a.png" crc="4241854296" ref="videos"/>
+    <file name="u2333-4-a.png" crc="4261099588" ref="videos"/>
+    <file name="u1738-26.png" crc="4241994764" ref="j2.11"/>
+    <file name="u2115-6.png" crc="4197302829" ref="j2.13"/>
+    <file name="u2233-6.png" crc="478572108" ref="j2.35"/>
+    <file name="u1559-5.png" crc="93957841" ref="index:videos:homework:powerpoint-slides:upcoming-tests:j2.11:j2.13:j2.35"/>
+    <file name="u312-6.png" crc="296021436" ref="index"/>
+    <file name="u430-4-a.png" crc="393942479" ref="index"/>
+    <file name="u437.png" crc="119248113" ref="index"/>
+    <file name="u437-a.png" crc="119248113" ref="index"/>
+    <file name="u505.png" crc="3900558269" ref="index"/>
+    <file name="u505-a.png" crc="3900558269" ref="index"/>
+    <file name="u1061.png" crc="4241854296" ref="index"/>
+    <file name="u1061-a.png" crc="4241854296" ref="index"/>
+    <file name="u475.png" crc="4261099588" ref="index"/>
+    <file name="u475-a.png" crc="4261099588" ref="index"/>
+    <file name="u1445-6.png" crc="516202446" ref="homework"/>
+    <file name="u1364.png" crc="393942479" ref="homework"/>
+    <file name="u1364-a.png" crc="393942479" ref="homework"/>
+    <file name="u1372-4-a.png" crc="3998947512" ref="homework"/>
+    <file name="u1349.png" crc="4037023568" ref="homework"/>
+    <file name="u1349-a.png" crc="4037023568" ref="homework"/>
+    <file name="u1344.png" crc="4241854296" ref="homework"/>
+    <file name="u1344-a.png" crc="4241854296" ref="homework"/>
+    <file name="u1356.png" crc="4261099588" ref="homework"/>
+    <file name="u1356-a.png" crc="4261099588" ref="homework"/>
+    <file name="pasted image 1920x1080.jpg" crc="4042615730" seo="true" ref="powerpoint-slides"/>
+    <file name="u2636-6.png" crc="242994057" ref="powerpoint-slides"/>
+    <file name="u2603.png" crc="393942479" ref="powerpoint-slides"/>
+    <file name="u2603-a.png" crc="393942479" ref="powerpoint-slides"/>
+    <file name="u2621.png" crc="119248113" ref="powerpoint-slides"/>
+    <file name="u2621-a.png" crc="119248113" ref="powerpoint-slides"/>
+    <file name="u2612-4-a.png" crc="4037023568" ref="powerpoint-slides"/>
+    <file name="u2631.png" crc="4241854296" ref="powerpoint-slides"/>
+    <file name="u2631-a.png" crc="4241854296" ref="powerpoint-slides"/>
+    <file name="u2625.png" crc="4261099588" ref="powerpoint-slides"/>
+    <file name="u2625-a.png" crc="4261099588" ref="powerpoint-slides"/>
+    <file name="pasted image 2121x1414.jpg" crc="275298096" seo="true" ref="upcoming-tests"/>
+    <file name="u2773-6.png" crc="365939341" ref="upcoming-tests"/>
+    <file name="u2770.png" crc="393942479" ref="upcoming-tests"/>
+    <file name="u2770-a.png" crc="393942479" ref="upcoming-tests"/>
+    <file name="u2755.png" crc="119248113" ref="upcoming-tests"/>
+    <file name="u2755-a.png" crc="119248113" ref="upcoming-tests"/>
+    <file name="u2749.png" crc="4037023568" ref="upcoming-tests"/>
+    <file name="u2749-a.png" crc="4037023568" ref="upcoming-tests"/>
+    <file name="u2741-4-a.png" crc="4241854296" ref="upcoming-tests"/>
+    <file name="u2761.png" crc="4261099588" ref="upcoming-tests"/>
+    <file name="u2761-a.png" crc="4261099588" ref="upcoming-tests"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="homework:j2.11:j2.13:j2.35"/>
+    <file name="u3900.png" crc="393942479" ref="j2.11"/>
+    <file name="u3900-a.png" crc="393942479" ref="j2.11"/>
+    <file name="u3932.png" crc="3998947512" ref="j2.11"/>
+    <file name="u3932-a.png" crc="3998947512" ref="j2.11"/>
+    <file name="u3942.png" crc="4037023568" ref="j2.11"/>
+    <file name="u3942-a.png" crc="4037023568" ref="j2.11"/>
+    <file name="u3937.png" crc="4241854296" ref="j2.11"/>
+    <file name="u3937-a.png" crc="4241854296" ref="j2.11"/>
+    <file name="u3950.png" crc="4261099588" ref="j2.11"/>
+    <file name="u3950-a.png" crc="4261099588" ref="j2.11"/>
+    <file name="u4183.png" crc="393942479" ref="j2.13"/>
+    <file name="u4183-a.png" crc="393942479" ref="j2.13"/>
+    <file name="u4145.png" crc="3998947512" ref="j2.13"/>
+    <file name="u4145-a.png" crc="3998947512" ref="j2.13"/>
+    <file name="u4174.png" crc="4037023568" ref="j2.13"/>
+    <file name="u4174-a.png" crc="4037023568" ref="j2.13"/>
+    <file name="u4188.png" crc="4241854296" ref="j2.13"/>
+    <file name="u4188-a.png" crc="4241854296" ref="j2.13"/>
+    <file name="u4139.png" crc="4261099588" ref="j2.13"/>
+    <file name="u4139-a.png" crc="4261099588" ref="j2.13"/>
+    <file name="u4354.png" crc="393942479" ref="j2.35"/>
+    <file name="u4354-a.png" crc="393942479" ref="j2.35"/>
+    <file name="u4316.png" crc="3998947512" ref="j2.35"/>
+    <file name="u4316-a.png" crc="3998947512" ref="j2.35"/>
+    <file name="u4345.png" crc="4037023568" ref="j2.35"/>
+    <file name="u4345-a.png" crc="4037023568" ref="j2.35"/>
+    <file name="u4359.png" crc="4241854296" ref="j2.35"/>
+    <file name="u4359-a.png" crc="4241854296" ref="j2.35"/>
+    <file name="u4310.png" crc="4261099588" ref="j2.35"/>
+    <file name="u4310-a.png" crc="4261099588" ref="j2.35"/>
+  </folder>
+  <file name="index.html" crc="101669705" seo="true" mt="1490175348424" redirect="true"/>
+  <file name="videos.html" crc="4137389461" seo="true" mt="1490175819446" redirect="true"/>
+  <file name="homework.html" crc="3912904088" seo="true" mt="1490175450463" redirect="true"/>
+  <file name="powerpoint-slides.html" crc="4143744098" seo="true" mt="1490175704985" redirect="true"/>
+  <file name="upcoming-tests.html" crc="3870618972" seo="true" mt="1490175829331" redirect="true"/>
+  <file name="j2.11.html" crc="4223414201" seo="true" mt="1490175528334" redirect="true"/>
+  <file name="j2.13.html" crc="18034583" seo="true" mt="1490175568147" redirect="true"/>
+  <file name="j2.35.html" crc="485148133" seo="true" mt="1490175603869" redirect="true"/>
+</manifest>
